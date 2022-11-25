@@ -1,0 +1,1 @@
+/home/robin/workspace/code/Yanix/.config/xmonad/xmonad.hs
